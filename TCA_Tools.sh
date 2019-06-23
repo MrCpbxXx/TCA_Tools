@@ -20,7 +20,7 @@ figlet TANGERANG CYBER ARMY | lolcat
 
 echo "_____________________________________________________________"
 echo "Tools    : TANGERANG CYBER ARMY    $white          " |lolcat
-echo "Creadby  : ⇝͜͡✪♆•|𝙼𝚛.𝙲𝚙𝚋𝚡𝚇𝚡|•❻⓺❻♆✪࿐*          " |lolcat
+echo "Creadby  : ⇝͜͡✪♆•|Mr.CpbxXx|•❻⓺❻♆✪࿐*          " |lolcat
 echo "Contact  : +62 857-7908-1663   $white                      " |lolcat
 echo "_____________________________________________________________"
 
@@ -53,9 +53,9 @@ echo $c "4   Lazymux${endc}";
 echo "============================" | lolcat
 echo $r "5.  Tools-X${endc}";
 echo "============================" | lolcat
-echo $r "6. Exit${endc}";
+echo $r "0. Exit${endc}";
 echo ""
-echo "╭─⇝͜͡✪♆•|𝙼𝚛.𝙲𝚙𝚋𝚡𝚇𝚡|•❻⓺❻♆✪࿐*" |lolcat
+echo "╭─⇝͜͡✪♆•|Mr.CpbxXx|•❻⓺❻♆✪࿐*" |lolcat
 read -p "╰─#" pil;
 
 # Nmap
@@ -115,7 +115,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "created by : ⇝͜͡✪♆•|𝙼𝚛.𝙲𝚙𝚋𝚡𝚇𝚡|•❻⓺❻♆✪࿐*" | lolcat
+6) echo "created by : ⇝͜͡✪♆•|Mr.CpbxXx|•❻⓺❻♆✪࿐*" | lolcat
 exit
 ;;
 
